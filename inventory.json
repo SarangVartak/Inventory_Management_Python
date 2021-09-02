@@ -1,0 +1,212 @@
+{
+    "1": {
+        "Name": "Chesse Ball Small",
+        "Quantity": 96,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "31-10-2022"
+    },
+    "2": {
+        "Name": "Cheese Ball Large",
+        "Quantity": 80,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "31-10-2022"
+    },
+    "3": {
+        "Name": "Milky Bar Small  ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "4": {
+        "Name": "Milky Bar Large  ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "5": {
+        "Name": "Dairy Milk Small ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "6": {
+        "Name": "Dairy Milk Large ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "7": {
+        "Name": "5 Star Small     ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "8": {
+        "Name": "5 Star Large     ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "9": {
+        "Name": "Munch            ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "10": {
+        "Name": "Eclairs Pack     ",
+        "Quantity": 100,
+        "Rate": 250,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "11": {
+        "Name": "KurKure Small    ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "12": {
+        "Name": "Kurkure Medium   ",
+        "Quantity": 100,
+        "Rate": 20,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "13": {
+        "Name": "Kurkure Large    ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "14": {
+        "Name": "Lays Small       ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "30-10-2022"
+    },
+    "15": {
+        "Name": "Lays Medium      ",
+        "Quantity": 100,
+        "Rate": 20,
+        "Discount": 10,
+        "Expiry": "30-10-2022"
+    },
+    "16": {
+        "Name": "Lays Large       ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "30-10-2022"
+    },
+    "17": {
+        "Name": "Lays Family Pack ",
+        "Quantity": 100,
+        "Rate": 90,
+        "Discount": 10,
+        "Expiry": "30-10-2022"
+    },
+    "18": {
+        "Name": "Cornitos Small   ",
+        "Quantity": 100,
+        "Rate": 35,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "19": {
+        "Name": "Cornitos Large   ",
+        "Quantity": 100,
+        "Rate": 70,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "20": {
+        "Name": "Uncle Chips Small",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "21": {
+        "Name": "Uncle Chips Large",
+        "Quantity": 100,
+        "Rate": 20,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "22": {
+        "Name": "TakaTak Small    ",
+        "Quantity": 100,
+        "Rate": 10,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "23": {
+        "Name": "TakaTak Large    ",
+        "Quantity": 100,
+        "Rate": 20,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "24": {
+        "Name": "Coke Can         ",
+        "Quantity": 100,
+        "Rate": 30,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "25": {
+        "Name": "Coke 300ml       ",
+        "Quantity": 100,
+        "Rate": 20,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "26": {
+        "Name": "Coke 600ml       ",
+        "Quantity": 100,
+        "Rate": 40,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "27": {
+        "Name": "Coke 1.25l       ",
+        "Quantity": 100,
+        "Rate": 85,
+        "Discount": 10,
+        "Expiry": "20-10-2022"
+    },
+    "28": {
+        "Name": "Sprite 600ml      ",
+        "Quantity": 100,
+        "Rate": 40,
+        "Discount": 10,
+        "Expiry": "30-11-2022"
+    },
+    "29": {
+        "Name": "Sprite 1.25l      ",
+        "Quantity": 100,
+        "Rate": 60,
+        "Discount": 10,
+        "Expiry": "30-11-2022"
+    },
+    "30": {
+        "Name": "Sprite 2l         ",
+        "Quantity": 88,
+        "Rate": 80,
+        "Discount": 10,
+        "Expiry": "30-11-2022"
+    }
+}
