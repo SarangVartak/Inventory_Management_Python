@@ -23,7 +23,7 @@ Place Order:
 
 
 
-Bill Generation
+Bill Generation:
 ![Screenshot (38)](https://user-images.githubusercontent.com/89790330/131855807-0695c992-a9ba-453d-8770-a38b6ff44eca.png)
 
 
@@ -37,3 +37,8 @@ Record json
 
 Transaction json
 ![Screenshot (40)](https://user-images.githubusercontent.com/89790330/131856016-be4668d0-a940-455b-a011-9051aad159fe.png)
+  
+  
+
+Updated Inventory:
+![Screenshot (43)](https://user-images.githubusercontent.com/89790330/132206793-2aaabb17-82db-4de7-a906-271e3c263bc1.png)
