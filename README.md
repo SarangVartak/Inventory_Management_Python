@@ -1,12 +1,13 @@
 # Inventory_Management_Python
-This is a very basic Inventory Management system program using python. It is a menu driven program.
+This is a very basic Inventory Management system program, made using python. It is a menu driven program.
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/89790330/131858743-cd616721-d395-4d70-9ce0-b836822fc6cd.png)
 
 Its menu consists of 3 options:
 1.	Inventory
 2.	Place order
-3.	Exit Under Inventory, it displays the complete inventory. Under Place order, It places an order, updates the inventory, generates and a bill and then keep the record of transactions.
+3.	Exit.                                                                                                                                                                        
+Under Inventory, it displays the complete inventory. Under Place order, It places an order, updates the inventory, generates a bill and then keep the record of transactions.
 
 
 
@@ -29,13 +30,13 @@ Bill Generation:
 
 
 
-Record json
+Record json:
 ![Screenshot (39)](https://user-images.githubusercontent.com/89790330/131855984-ca38a01c-afbb-46c2-8707-88145a72f6cd.png)
 
 
 
 
-Transaction json
+Transaction json:
 ![Screenshot (40)](https://user-images.githubusercontent.com/89790330/131856016-be4668d0-a940-455b-a011-9051aad159fe.png)
   
   
